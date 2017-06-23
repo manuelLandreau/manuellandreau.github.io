@@ -1,7 +1,5 @@
 body {
-    background-attachment: fixed;
-    background-image: url('../images/back.png');
-    background-position: 0 -158px;
+    background: url('../images/back.png') fixed 0 -158px;
 }
 
 .back {
@@ -14,9 +12,7 @@ body {
 }
 
 .back-top {
-    background-attachment: fixed;
-    background-image: url('../images/back.png');
-    background-position: 0 -158px;
+    background: url('../images/back.png') fixed 0 -158px;
 }
 
 .affix {
