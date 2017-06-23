@@ -1,0 +1,156 @@
+body {
+    background-attachment: fixed;
+    background-image: url('back.png');
+    background-position: 0 -158px;
+}
+
+.back {
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+    background-color: #fff;
+}
+
+.back-top {
+    background-attachment: fixed;
+    background-image: url('back.png');
+    background-position: 0 -158px;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+}
+
+.affix + .container-fluid {
+    padding-top: 70px;
+}
+
+.logo {
+    padding: 0;
+    border: 1px solid;
+    font-size: 120px;
+    font-weight: 300;
+    line-height: 1.2em;
+    letter-spacing: 0;
+}
+
+.brand,
+.brand div {
+    height: 185px;
+    font-size: 18px;
+    line-height: 0.8em;
+}
+
+.navbar {
+    z-index: 100;
+    background-color: #fff;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.dl {
+    color: #fff;
+}
+
+.display {
+    display: none;
+}
+
+.coll {
+    border: 0;
+    background-color: #fff;
+}
+
+.social-icons {
+    float: right;
+    margin: 0;
+}
+
+.social-icons > li {
+    display: inline-block;
+}
+
+.social-icons > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+}
+
+.well {
+    border-radius: 1px;
+    background-color: #fff;
+}
+
+.alert-danger {
+    background-color: #FF820D;
+    border: 0;
+    border-radius: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+p {
+    text-align: justify;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.card-text {
+    padding-top: 18px;
+}
+
+img {
+    width: 100px;
+    border-radius: 20px;
+}
+
+.display {
+    display: none;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.presentation {
+    margin-bottom: 40px;
+}
+
+.month {
+    padding-top: 6px;
+}
+
+.year {
+    font-size: 36px;
+    line-height: 0.8em;
+}
+
+.title {
+    font-size: 24px;
+}
+
+footer {
+    padding: 20px 0;
+}
+
+@media (max-width: 768px) {
+    .social-icons {
+        float: initial;
+    }
+
+    .inline-b {
+        display: inline-block;
+    }
+
+    .display {
+        display: initial;
+    }
+
+    .display-none {
+        display: none;
+    }
+}
