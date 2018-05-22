@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Manuel Landreau",
+    "label": "Développeur Fullstack",
+    "picture": "me.png",
+    "email": "manuel.landreau@gmail.com",
+    "phone": "06 31 81 18 32",
+    "website": "http://github.com/manuellandreau",
+    "summary": "I LOVE Javascript & PHP and everything about them.",
+    "location": {
+      "address": "7, Rue Georges Chartrin",
+      "postalCode": "44200",
+      "city": "NANTES",
+      "countryCode": "FR",
+      "region": "Pays de la loire"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@manu___l",
+        "url": "http://twitter.com/manu___l"
+      },
+      {
+        "network": "Github",
+        "username": "manuellandreau",
+        "url": "http://github.com/manuellandreau"
+      },
+      {
+        "network": "Linkedin",
+        "username": "manuellandreau",
+        "url": "https://www.linkedin.com/in/manuellandreau"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Netapsys Atlantique",
+      "position": "Dévelopeur Fullstack",
+      "website": "https://www.netapstys.fr",
+      "startDate": "Septembre 2016",
+      "endDate": "Aujourd'hui",
+      "summary": "Intervention sur differents projets en TMA ou en Développement sur Struts, Symfony et React Angular (toutes versions)"
+    },
+    {
+      "company": "Sciences aventures extrêmes",
+      "position": "Dévelopeur Fullstack",
+      "website": "http://www.stephanelevin.com",
+      "startDate": "Mai 2016",
+      "endDate": "Aout 2016",
+      "summary": "Conception et réalisation du cockpit numérique pour la mission Seul dans le Namib"
+    },
+    {
+      "company": "Riso France",
+      "position": "Technicien itinérant",
+      "website": "http://www.risofrance.fr",
+      "startDate": "Décembre 2010",
+      "endDate": "Novembre 2013",
+      "summary": "Technicien itinérant duplicopieur et photocopieur. SAV, Installation et formation aux utilisateurs"
+    },
+    {
+      "company": "Clinic'micro",
+      "position": "Technicien Micro",
+      "website": "none",
+      "startDate": "Septembre 2005",
+      "endDate": "Juillet 2007",
+      "summary": "Vente, installation, SAV et conseil en micro-informatique et réseaux"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Les Artsouilles",
+      "position": "Bénévole",
+      "website": "http://www.lesartsouillessouvrent.fr/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Evenementiel"
+    },
+    {
+      "organization": "Les connexions",
+      "position": "Bénévole",
+      "website": "http://www.connexions.fr/",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Evenementiel"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "Anglais",
+      "level": "Courant"
+    },
+    {
+      "name": "Espagnol",
+      "level": "intermediaire"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
+}
